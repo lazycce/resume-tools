@@ -6,12 +6,20 @@
 **预览**
 ![](https://s3.bmp.ovh/imgs/2022/09/06/613dd13fb27aea8c.png)
 
-## 开始开始
+## 快速开始
 ```
 使用 Hbuildx 启动
 
 download url：https://www.dcloud.io/hbuilderx.html
 ```
+
+## 🎉 涉及技术
+- 💪 vue
+- 💅 uiview
+- 🌍 java springboot mybatis
+- 👏 freemaker
+- 🥳 百度图像分割api
+
 
 **二维码体验**
 ------

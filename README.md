@@ -19,3 +19,7 @@ download url：https://www.dcloud.io/hbuilderx.html
 ------
 ![](https://s3.bmp.ovh/imgs/2022/09/06/a6ad16edb6e803db.jpg)
 
+
+## 📄 Commercial considerations
+
+This project can be used for commercial purposes free of charge. Please abide by the MIT agreement and keep the author's technical support statement. For customized source code copyright information, please contact customer service

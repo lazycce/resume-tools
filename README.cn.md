@@ -16,3 +16,6 @@ download url：https://www.dcloud.io/hbuilderx.html
 **二维码体验**
 ------
 ![](https://s3.bmp.ovh/imgs/2022/09/06/a6ad16edb6e803db.jpg)
+
+## 📄 商用注意事项
+此项目可免费用于商业用途，请遵守 MIT 协议并保留作者技术支持声明。

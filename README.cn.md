@@ -14,7 +14,7 @@ download url：https://www.dcloud.io/hbuilderx.html
 ```
 
 ## 🎉 涉及技术
-- 💪 vue + uiview
+- 💪 vue + uiview + uniapp
 - 🌍 java springboot mybatis
 - 👏 freemaker
 - 🥳 百度图像分割api

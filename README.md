@@ -15,6 +15,12 @@ use Hbuildx
 download url：https://www.dcloud.io/hbuilderx.html
 ```
 
+## 🎉 tech
+- 💪 vue + uiview + uniapp
+- 🌍 java springboot mybatis
+- 👏 freemaker
+- 🥳 baidui api
+
 **QR code**
 ------
 ![](https://s3.bmp.ovh/imgs/2022/09/06/a6ad16edb6e803db.jpg)
